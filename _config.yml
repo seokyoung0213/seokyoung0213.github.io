@@ -4,11 +4,12 @@ logo_img: "/assets/img/favicon.webp"
 profile_img: "/assets/img/profile.webp"
 
 # Social Links
-email: example@gmail.com
-github_username: github
+# 해당 부분을 수정해야 링크가 적용 됨.
+email: whtjrdud12@naver.com
+github_username: seokyoung0213
 twitter_username: twitter
-instagram_username: instagram
-linkedin_username: linkedin
+instagram_username: _martlln
+linkedin_username: seokyoungcho
 facebook_username: facebook
 
 # External API
